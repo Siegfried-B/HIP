@@ -13,7 +13,12 @@ The average daily mining reward per hotspot is currently equal to around 50,000 
 
 As a result, it would take nearly a month for the average hotspot to earn enough to pay for one location reassertion.
 
-Therefore, if we are trying to expand the network and want hotspots in saturated areas to move into less saturated areas (or moreover in lone wolf like areas), want to ease the burden on new people joining the network, and ease the burden on people making human errors, the current reassertion price is not viable and needs to be reduced.
+Therefore, if we are trying to expand the network and want 
+- hotspots in saturated areas to move into less saturated areas (or moreover in lone wolf like areas), 
+- to ease the burden on new people joining the network,
+- to ease the burden on people making human errors, 
+
+the current reassertion price is not viable and needs to be reduced.
 
 # Stakeholders
 
