@@ -64,7 +64,7 @@ Helium Mobile specifically plans to launch an Unlimited Plan offering to the mar
 
 We propose a basic anti-gaming mechanism for unlimited plans that is Helium Mobile-specific. This means that other carriers planning to join the Helium Mobile Network can propose their own algorithms or none.
 
-For Helium Mobile unlimited plan we propose to set the limit for the data traffic rewards for Hotspot Owners based on the amount of traffic each Subscriber uses with an unlimited plan. We’ve analyzed average data usage and determined that setting a cap at 30GB of rewardable data per 30-day billing cycle, per subscriber would be sufficiently high. It reflects normal data consumption and does not unreasonably prevent MOBILE earnings for Hotspot Owners. In fact, we anticipate most of the usage will fall below that number.
+For Helium Mobile unlimited plans we propose to set the limit for the data traffic rewards for Hotspot Owners based on the amount of traffic each Subscriber uses with an unlimited plan. We’ve analyzed average data usage and determined that setting a cap at 30GB of rewardable data per 30-day billing cycle, per subscriber would be sufficiently high. It reflects normal data consumption and does not unreasonably prevent MOBILE earnings for Hotspot Owners. In fact, we anticipate most of the usage will fall below that number.
 
 The 30GB rewards limit will reset with a start of a new 30-day billing cycle for each Subscriber with an unlimited data plan. The data traffic cap is not limited to a particular Hotspot. It is applicable to all Hotspots that provide data for a specific Subscriber.
 
